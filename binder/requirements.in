@@ -1,0 +1,5 @@
+numpy
+pathlib
+vaex
+pooch
+plotly.express
